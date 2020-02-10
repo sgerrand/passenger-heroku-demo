@@ -4,7 +4,7 @@ GEM
     passenger (6.0.4)
       rack
       rake (>= 0.8.1)
-    rack (2.0.8)
+    rack (2.2.1)
     rake (13.0.1)
 
 PLATFORMS
